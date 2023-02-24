@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/online-techShop/static/css/main.fdd47e73.css",
+    "main.js": "/online-techShop/static/js/main.e17b9aaf.js",
+    "static/js/787.6962f9d7.chunk.js": "/online-techShop/static/js/787.6962f9d7.chunk.js",
+    "static/media/cover.jpg": "/online-techShop/static/media/cover.3ca67c45cb9f6e578e15.jpg",
+    "index.html": "/online-techShop/index.html",
+    "main.fdd47e73.css.map": "/online-techShop/static/css/main.fdd47e73.css.map",
+    "main.e17b9aaf.js.map": "/online-techShop/static/js/main.e17b9aaf.js.map",
+    "787.6962f9d7.chunk.js.map": "/online-techShop/static/js/787.6962f9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd47e73.css",
+    "static/js/main.e17b9aaf.js"
+  ]
+}
