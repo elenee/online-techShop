@@ -1,0 +1,20 @@
+li {
+  list-style: none;
+}
+.item {
+  display: flex;
+  margin: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #ccc;
+  justify-content: space-between;
+}
+.list-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.item-price{
+  font-size: 18px;
+  font-weight: bold;
+  color: #41b3a3;
+}

@@ -1,0 +1,19 @@
+.btn{
+    display: flex;
+    align-items: center;
+    padding: 7px 25px;
+    cursor: pointer;
+    border-radius: 25px;
+    font-weight: 600;
+    border: 1px solid black;
+    background-color: white;
+}
+.btn-text{
+    padding: 5px 10px;
+    font-size: 14px;
+}
+.btn-num{
+    background-color: #41b3a3;
+    border-radius: 25px;
+    padding: 5px 10px;
+}
